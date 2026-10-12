@@ -21,7 +21,7 @@ A Python-based Fake News Generator project that generates fictional news content
 3. Run the Python file:
 
 ```bash
-python Fake_News_Generator_2.py
+python Fake_News_Generator.py
 ```
 
 ## Example
